@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to kefirsound's blog
 ---
 
+All you never wanted to know...
